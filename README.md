@@ -3,7 +3,8 @@
 
 1. This code is for the paper: 
 
-   A novel dark channel prior guided variational framework for underwater image restoration
+   Guojia Hou, Jingming Li, Guodong Wang, Huan Yang, Baoxiang Huang, and Zhenkuan Pan, "A novel dark channel prior guided variational framework for underwater image restoration," Journal 
+   of Visual Communication and Image Representation, vol. 66,102732, 2020.
    
    It can only be used for non-comercial purpose. If you use our code, please cite the paper.
 
