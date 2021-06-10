@@ -7,7 +7,7 @@
    
    It can only be used for non-comercial purpose. If you use our code, please cite the paper.
 
-2. This MATLAB code is tested on Windows 10 64bit with MATLAB 2017a. 
+2. This MATLAB code is tested on Windows 10 64bit with MATLAB 2016b. 
 
 3. Usage:
 
